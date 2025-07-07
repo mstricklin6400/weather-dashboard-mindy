@@ -127,9 +127,9 @@ weather-dashboard-mindy/
 
 **Setup steps to complete before Monday:**
 - [x] Create project structure with main.py, config.py, and /data/ folder
-- [ ] Get that OpenWeatherMap API key set up (and NOT commit it to GitHub!)
-- [ ] Create basic skeleton files for my features so I have something to work with
-- [ ] Write a decent README that explains what this thing is supposed to do
+- [x] Get that OpenWeatherMap API key set up (and NOT commit it to GitHub!)
+- [x] Create basic skeleton files for my features so I have something to work with
+- [x] Write a decent README that explains what this thing is supposed to do
 - [ ] Maybe book office hours if the API setup goes sideways
 - [ ] Test that I can actually connect to the API without everything exploding
 
