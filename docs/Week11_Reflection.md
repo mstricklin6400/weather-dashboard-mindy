@@ -131,7 +131,7 @@ weather-dashboard-mindy/
 - [x] Create basic skeleton files for my features so I have something to work with
 - [x] Write a decent README that explains what this thing is supposed to do
 - [ ] Maybe book office hours if the API setup goes sideways
-- [ ] Test that I can actually connect to the API without everything exploding
+- [x] Test that I can actually connect to the API without everything exploding
 
 ## 📤 Final Submission Checklist:
 - [x] Week11_Reflection.md completed
